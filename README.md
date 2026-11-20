@@ -60,13 +60,18 @@ me.say_hi()
 
 <div align="center">
 
-<img width="160" height="160" alt="1760008934009" src="https://github.com/user-attachments/assets/c52128a8-ef04-45c7-b9ba-dea91529ce71" />
+<img height="170" alt="Supercontributor" src="https://github.com/user-attachments/assets/c52128a8-ef04-45c7-b9ba-dea91529ce71" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cloud.layer5.io/user/edd27f35-83fe-4653-a91b-34241efe9d87?tab=badges&badge=first-design"><img height="170" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 Design Pioneer" /></a>
 
-
-Contributing to **[JdeRobot Robotics Academy](https://github.com/JdeRobot/RoboticsAcademy)** — tuning PD controllers for the Follow Line exercise and reporting/fixing UI bugs in the WebGUIImage component. Currently exploring **LFX Mentorship** and CNCF projects (Meshery, Antrea) for deeper open-source work.
-
+<sub><a href="https://badges.layer5.io">Get your own badge</a></sub>
 
 </div>
+
+- 🤖 **[JdeRobot RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy)**: tuned PD controllers for the Follow Line exercise and reported and fixed UI bugs in the WebGUIImage component.
+- ☁️ **Meshery (CNCF)**: built my first design in the Playground and earned the Design Pioneer badge. Contributing next.
+- 🎓 **LFX Mentorship**: exploring it, along with CNCF projects like Meshery and Antrea.
+
 
 ### 🏅 Certifications
 
