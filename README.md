@@ -60,7 +60,11 @@ me.say_hi()
 
 <div align="center">
 
+<img width="160" height="160" alt="1760008934009" src="https://github.com/user-attachments/assets/c52128a8-ef04-45c7-b9ba-dea91529ce71" />
+
+
 Contributing to **[JdeRobot Robotics Academy](https://github.com/JdeRobot/RoboticsAcademy)** — tuning PD controllers for the Follow Line exercise and reporting/fixing UI bugs in the WebGUIImage component. Currently exploring **LFX Mentorship** and CNCF projects (Meshery, Antrea) for deeper open-source work.
+
 
 </div>
 
